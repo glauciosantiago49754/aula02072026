@@ -29,4 +29,4 @@ jobs:
     steps:
     # Runs a single command using the runners shell
     - name: criar_dir
-      run: mkdir ${{ inputs.name }}"
+      run: mkdir ${{ inputs.name }}
